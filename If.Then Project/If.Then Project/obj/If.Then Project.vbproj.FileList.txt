@@ -1,0 +1,12 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\If_Statements.Dialog1.resources
+obj\Debug\If_Statements.Form1.resources
+obj\Debug\If_Statements.Resources.resources
+obj\Debug\If_Statements.Dialog2.resources
+bin\Debug\If.Then Project.exe
+bin\Debug\If.Then Project.pdb
+bin\Debug\If.xml
+obj\Debug\If.Then Project.vbproj.GenerateResource.Cache
+obj\Debug\If.Then Project.exe
+obj\Debug\If.xml
+obj\Debug\If.Then Project.pdb

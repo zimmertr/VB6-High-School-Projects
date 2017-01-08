@@ -1,0 +1,88 @@
+Public Class Form1
+    Dim grade1, grade2, grade3, grade4, grade5, grade6, grade7, grade8, Gradefinal, Gradeaverage As Integer
+
+
+    Private Sub ToolTip1_Popup(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PopupEventArgs)
+
+    End Sub
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        If IsNumeric(TextBox1.Text) = False Then
+            MsgBox("This is a NUMBER grade averager. Not A Letter Grade Averager.")
+        End If
+        grade1 = Val(TextBox1.Text)
+        grade2 = Val(TextBox2.Text)
+        grade3 = Val(TextBox3.Text)
+        grade4 = Val(TextBox4.Text)
+        grade5 = Val(TextBox5.Text)
+        grade6 = Val(TextBox6.Text)
+        grade7 = Val(TextBox7.Text)
+        grade8 = Val(TextBox8.Text)
+        gradefinal = (grade1 + grade2 + grade3 + grade4 + grade5 + grade6 + grade7 + grade8) / 8
+        If gradefinal < 70 Then
+            MsgBox("NP", 0, "Grade Calculator")
+        ElseIf gradefinal >= 70 And gradefinal <= 73 Then
+            MsgBox("C-", 0, "Grade Calculator")
+        ElseIf gradefinal >= 74 And gradefinal <= 76 Then
+            MsgBox("C", 0, "Grade Calculator")
+        ElseIf gradefinal >= 77 And gradefinal <= 79 Then
+            MsgBox("C+", 0, "Grade Calculator")
+        ElseIf gradefinal >= 80 And gradefinal <= 83 Then
+            MsgBox("B-", 0, "Grade Calculator")
+        ElseIf gradefinal >= 84 And gradefinal <= 86 Then
+            MsgBox("B", 0, "Grade Calculator")
+        ElseIf gradefinal >= 87 And gradefinal <= 89 Then
+            MsgBox("B+", 0, "Grade Calculator")
+        ElseIf gradefinal >= 90 And gradefinal <= 93 Then
+            MsgBox("A-", 0, "Grade Calculator")
+        ElseIf gradefinal >= 94 And gradefinal <= 96 Then
+            MsgBox("A", 0, "Grade Calculator")
+        ElseIf gradefinal >= 97 And gradefinal <= 100 Then
+            MsgBox("A+", 0, "Grade Calculator")
+        ElseIf gradefinal >= 101 And gradefinal <= 150 Then
+            MsgBox("A++", 0, "Grade Calculator")
+        ElseIf gradefinal >= 151 Then
+            MsgBox("Your Either Giving Too Much Extra Credit Or Entered A Number In Incorrectly.", 0, "Grade Calculator")
+        End If
+
+    End Sub
+
+    Private Sub Label1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label1.Click
+
+    End Sub
+
+    Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
+        TextBox1.Text = ""
+        TextBox2.Text = ""
+        TextBox3.Text = ""
+        TextBox4.Text = ""
+        TextBox5.Text = ""
+        TextBox6.Text = ""
+        TextBox7.Text = ""
+        TextBox8.Text = ""
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Close()
+    End Sub
+
+    Private Sub Label2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label2.Click
+
+    End Sub
+
+    Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
+
+    End Sub
+
+    Private Sub Button4_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        MsgBox("All Donations Can Be Sent To TJ_Zimmerman_2011@paypal.com## All Proceeds Will Be Used To Release Further Builds Of This Program", 0, "Donations Are Always Nice =]")
+    End Sub
+End Class

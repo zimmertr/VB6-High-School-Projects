@@ -1,0 +1,11 @@
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\Thanksgiving Program.exe
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\Thanksgiving Program.xml
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\Thanksgiving Program.pdb
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\bin\Debug\Thanksgiving Program.exe
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\bin\Debug\Thanksgiving Program.pdb
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\bin\Debug\Thanksgiving Program.xml
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\ResolveAssemblyReference.cache
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\WindowsApplication1.Dialog1.resources
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\WindowsApplication1.Form1.resources
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\WindowsApplication1.Resources.resources
+K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program\obj\Debug\Thanksgiving Program.vbproj.GenerateResource.Cache

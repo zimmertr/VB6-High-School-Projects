@@ -1,0 +1,14 @@
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Release\WindowsApplication1.exe.manifest
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Release\WindowsApplication1.application
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Release\WindowsApplication1.exe
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Release\WindowsApplication1.xml
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.exe.manifest
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.application
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.exe
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.xml
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Release\WindowsApplication1.pdb

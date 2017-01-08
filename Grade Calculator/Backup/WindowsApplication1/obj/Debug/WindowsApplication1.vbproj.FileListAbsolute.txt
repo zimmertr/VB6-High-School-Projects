@@ -1,0 +1,10 @@
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+K:\School\Info Tech\Visual Basic\EXAM\Backup\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

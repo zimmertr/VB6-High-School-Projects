@@ -1,0 +1,10 @@
+bin\Debug\My First Program.exe
+bin\Debug\My First Program.pdb
+bin\Debug\My First Program.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\My First Program.vbproj.GenerateResource.Cache
+obj\Debug\My First Program.exe
+obj\Debug\My First Program.xml
+obj\Debug\My First Program.pdb

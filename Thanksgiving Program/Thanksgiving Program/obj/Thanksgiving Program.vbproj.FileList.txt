@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Resources.resources
+obj\Debug\WindowsApplication1.Dialog1.resources
+bin\Debug\Thanksgiving Program.exe
+bin\Debug\Thanksgiving Program.pdb
+bin\Debug\Thanksgiving Program.xml
+obj\Debug\Thanksgiving Program.vbproj.GenerateResource.Cache
+obj\Debug\Thanksgiving Program.exe
+obj\Debug\Thanksgiving Program.xml
+obj\Debug\Thanksgiving Program.pdb

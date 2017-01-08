@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Thanksgiving Program">
+</Property><Property Name="Solution File" Value="K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program.sln">
+</Property><Property Name="User Options File" Value="K:\School\Info Tech\Visual Basic\Thanksgiving Program\Thanksgiving Program.suo">
+</Property><Property Name="Date" Value="Monday, May 18, 2009">
+</Property><Property Name="Time" Value="Tirne:  16:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Thanksgiving Program.sln" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Thanksgiving Program.suo" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program.suo">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Thanksgiving Program.vbproj" Description="Project file successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Thanksgiving Program.vbproj">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Dialog1.Designer.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Dialog1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Dialog1.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Dialog1.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Form1.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Form1.Designer.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\AssemblyInfo.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\Application.Designer.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\Resources.Designer.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\Settings.Designer.vb" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\Application.myapp" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\Settings.settings" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Dialog1.resx" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Dialog1.resx">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Form1.resx" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\My Project\Resources.resx" Description="File successfully backed up as K:\School\Info Tech\Visual Basic\Thanksgiving Programbackup\Backup\Thanksgiving Program\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Thanksgiving Program.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Thanksgiving Program" Source="Thanksgiving Program\Thanksgiving Program.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Thanksgiving Program.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Thanksgiving Program.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Thanksgiving Program" Source="Thanksgiving Program\Thanksgiving Program.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
